@@ -1,0 +1,4 @@
+export const BANX_LOGO_URL =
+  'https://lh3.googleusercontent.com/aida-public/AB6AXuAG9oyCLLwAEhMK4xhBPvsMsznZnl_LfERjNUlFD3WOPpAJWZ1f2WWrGKydzNGN-8crfLjNy9bmDDUyJQC-cQxX93Vbw7el64En96z3wX3FfJzLlvglBfeDzQ5f-a2ap3hanaMO3u-RQSmfvtk-HyzCwGdxEv2qtSXgPb6ooQFdDnLdSLEOKmNeGlpo5x-Sbhp7HStuAWjInsjaoEvqh7yU8kE2GFBR1lJzbwc4M12nD71qGXytaJFtY8RWuExgxzHUX1POnxct6I28';
+
+export const BANX_LOGO_BACKGROUND = `url("${BANX_LOGO_URL}")`;
